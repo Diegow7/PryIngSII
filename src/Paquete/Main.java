@@ -18,6 +18,7 @@ public class Main {
     public static void main(String[] args) {
         
         System.out.println("Mensaje de prueba again");
+        System.out.println("Mensaje de creacion de rama");
         //Llamado a ventana principal
         VentanaMain ventanaMain = new VentanaMain();
         ventanaMain.setVisible(true); 
