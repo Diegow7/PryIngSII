@@ -17,6 +17,7 @@ public class Main {
      */
     public static void main(String[] args) {
         
+        System.out.println("Para ver si funca el cambio");
         //Llamado a ventana principal
         VentanaMain ventanaMain = new VentanaMain();
         ventanaMain.setVisible(true);
